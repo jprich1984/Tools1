@@ -1,0 +1,10 @@
+-Scrape yelp reviews of restaurants, then do an NLP to categorize the reason for good/bad review i.e ('service',', 'taste','ambiance') 
+
+or 
+we scrape yelp reviews and just do a descriptive analysis of the language that is used to describe diffent types of cuisine.  e.g the top 10 descriptive words to describe italian food are ....
+
+or we could train a model to determine if a review is good or bad.
+
+-Train a model to classify the general reason for complaints in this csv complaints_processed.csv
+
+-Sentiment Analysis Twitter data set: create a model that classifies the language in a tweet as positive, negative, or neutral use Covid19_tweets.csv or  training.1600000.processed.noemoticon.csv
